@@ -1,9 +1,7 @@
-# \[Group name\]
+# \[CroIJF\]
 
 **Group members:**
-- A
-- B
-- C
+- Luka Draganic
 
 This repository contains  
 1. Inaugural project. 
